@@ -8,9 +8,11 @@
 
 <ul>
     <li>ReactJs</li>
+    <li>ChartJS</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>Material UI (for Styling)</li>
+    
 </ul>
 <br>
 

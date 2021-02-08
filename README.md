@@ -12,3 +12,6 @@
     <li>CSS</li>
     <li>Material UI (for Styling)</li>
 </ul>
+<br>
+
+![alt text](covid_19_tracker.gif)
